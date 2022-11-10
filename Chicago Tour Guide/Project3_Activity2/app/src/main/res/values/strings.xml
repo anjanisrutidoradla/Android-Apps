@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Project3_Activity2</string>
+    <string-array name="Titles">
+        <item>Navy Pier</item>
+        <item>Sky Deck</item>
+        <item>Shedd Aquarium</item>
+        <item>Art Institute of Chicago</item>
+        <item>Museum of Science and Industry</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>https://www.navypier.org</item>
+        <item>https://theskydeck.com/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://www.msichicago.org/explore/?gclid=CjwKCAjw_tWRBhAwEiwALxFPoY0h1C62eO4pyl23xZJctpryVTnFHH2HQtAt_hD-H7ImNlHTWfS7LRoCYaYQAvD_BwE</item>
+    </string-array>
+    <string-array name="Titles_R">
+        <item>HanaBusa Cafe</item>
+        <item>Niu B</item>
+        <item>Elephant and Castle</item>
+        <item>Shake Shack</item>
+        <item>Aroma Desi Grill</item>
+    </string-array>
+
+    <string-array name="Quotes_R">
+        <item>https://www.hanabusacafechicago.com/</item>
+        <item>https://www.niubchicago.com/</item>
+        <item>https://www.elephantcastle.com/en.html</item>
+        <item>https://shakeshack.com/</item>
+        <item>https://aromadesigrillil.com/</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,4 @@
+#Fri Apr 29 19:00:30 CDT 2022
+base.0=/Users/anjanisrutidoradla/Desktop/MovieServer/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

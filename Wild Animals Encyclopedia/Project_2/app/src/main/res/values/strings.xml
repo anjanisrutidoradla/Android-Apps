@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string name="facts_title">Facts</string>
+    <string name="facts_name">Name</string>
+    <string name="facts_species">Binomial Name</string>
+    <string name="facts_lifespan">Lifespan</string>
+    <string name="facts_weight">Weight</string>
+    <string name="facts_habitat">Habitat</string>
+    <string name="facts_diet">Diet</string>
+    <string name="facts_status">Conservation Status</string>
+    <string name="view_picture">View Picture</string>
+    <string name="view_facts">Check Facts</string>
+    <string name="view_wiki">Go to Wikipedia Page</string>
+</resources>

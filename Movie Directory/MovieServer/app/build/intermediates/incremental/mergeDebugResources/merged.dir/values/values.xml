@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_directors">
+        <item>Andy Morahan</item>
+        <item>Brett Bentman</item>
+        <item>Alexander Yellen</item>
+        <item>Brian Brough</item>
+        <item>Wisit Sasanatieng</item>
+    </string-array>
+    <string-array name="movie_links">
+        <item>https://www.youtube.com/watch?v=iOz3edv2Cpo</item>
+        <item>https://www.youtube.com/watch?v=2fQLgQ3OsL4</item>
+        <item>https://www.youtube.com/watch?v=1EtPdv2xPqU</item>
+        <item>https://www.youtube.com/watch?v=e4lAEWzTHDs</item>
+        <item>https://www.youtube.com/watch?v=it5DvD6P8gA</item>
+    </string-array>
+    <string-array name="movie_titles">
+        <item>Boogie Man</item>
+        <item>The Rodeo Thief</item>
+        <item>Battle Dogs</item>
+        <item>Snow Beast</item>
+        <item>Senior</item>
+    </string-array>
+    <string name="app_name">ServiceIDServiceClient</string>
+</resources>

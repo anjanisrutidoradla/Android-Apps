@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 29 19:00:30 CDT 2022
+0.base=/Users/anjanisrutidoradla/Desktop/MovieServer/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

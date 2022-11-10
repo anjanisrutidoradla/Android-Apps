@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+permission#course.examples.Services.KeyService.GEN_ID
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:7:5-9:18
+	android:protectionLevel
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:7:17-74
+application
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:11:5-25:19
+	android:icon
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:12:9-36
+service#course.examples.Services.KeyService.MovieCentral
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:15:9-24:19
+	android:label
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:16:13-45
+	android:exported
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:18:13-36
+	android:permission
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:19:13-76
+	android:name
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:course.examples.Services.KeyCommon.KeyGenerator+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:20:13-23:29
+action#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:21:17-90
+	android:name
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:21:25-87
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anjanisrutidoradla/Desktop/MovieServer/app/src/main/AndroidManifest.xml

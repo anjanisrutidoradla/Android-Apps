@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/layout_activity_details.xml.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/layout_activity_list_movies.xml.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/layout/activity_list_movies.xml"
+    },
+    {
+        "merged": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/build/intermediates/merged_res/debug/layout_main.xml.flat",
+        "source": "/Users/anjanisrutidoradla/Desktop/MovieClient/app/src/main/res/layout/main.xml"
+    }
+]

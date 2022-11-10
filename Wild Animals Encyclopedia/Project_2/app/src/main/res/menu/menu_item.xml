@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/seePicture"
+        android:title="See the picture" />
+
+    <item android:id="@+id/seeFacts"
+        android:title="See the facts" />
+
+    <item android:id="@+id/seeWiki"
+        android:title="Check the wikipedia for this animal " />
+</menu>
